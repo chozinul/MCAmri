@@ -1,0 +1,3 @@
+[submodule "thecore"]
+	path = thecore
+	url = https://github.com/chozinul/thecore.git
