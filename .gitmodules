@@ -1,3 +1,6 @@
-[submodule "thecore"]
-	path = thecore
-	url = https://github.com/chozinul/thecore.git
+[submodule "coresdk"]
+	path = coresdk
+	url = http://git4lab8.labs.mastercard.com/gitlab8/masterpass-qr/mpqr_ios_core_sdk_v2.git
+[submodule "scansdk"]
+	path = scansdk
+	url = http://git4lab8.labs.mastercard.com/gitlab8/masterpass-qr/mpqr_ios_scanner_sdk_v2.git
